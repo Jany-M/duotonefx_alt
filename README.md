@@ -1,12 +1,20 @@
 # DuotoneFX Alt
 
-[![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg)](https://gitter.im/orbitdb/Lobby) [![Matrix](https://img.shields.io/badge/matrix-%23orbitdb%3Apermaweb.io-blue.svg)](https://riot.permaweb.io/#/room/#orbitdb:permaweb.io) [![Discord](https://img.shields.io/discord/475789330380488707?color=blueviolet&label=discord)](https://discord.gg/cscuf5T)
+> Apply a Duotone effect to images, based on [`Anthony Teo's block`](https://bl.ocks.org/eightants/6286d8a69cccf9304871c867a9144e19).
 
-> An alternative way to apply a duotone effect to images
+> Credits to [`Anthony Teo's block`](https://bl.ocks.org/eightants/6286d8a69cccf9304871c867a9144e19) and [`Fabrice Lejeune`](https://fabricelejeune.github.io/jquery-duotone/) ([`examples here`](https://github.com/fabricelejeune/jquery-duotone)) for their work.
+
+> Find duotone inspiration on [`this`](https://duotone.shapefactory.co/) Duotone generator.
 
 ### TODO: Everything ###
 
-This repository is meant to serve as a general template for how to set up new repositories in the @orbitdb organization. In general, setting up a new repository should take only a few minutes; use this repository as a way of finding example files, and use the following checklist to ensure that you've set up the repository correctly.
+
+
+
+
+
+
+
 
 ## Install
 
