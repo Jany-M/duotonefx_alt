@@ -4,7 +4,7 @@
 
 > Credits to [`Anthony Teo's block`](https://bl.ocks.org/eightants/6286d8a69cccf9304871c867a9144e19) and [`Fabrice Lejeune`](https://fabricelejeune.github.io/jquery-duotone/) ([`examples here`](https://github.com/fabricelejeune/jquery-duotone)) for their work.
 
-> Find duotone inspiration on [`this`](https://duotone.shapefactory.co/) Duotone generator.
+> Find duotone inspiration on [`this`](https://duotone.shapefactory.co/) and [`this`](https://psyked.github.io/duotone/) Duotone generators.
 
 ### TODO: Everything ###
 
